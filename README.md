@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MUKONGE ERIC
+- 👋 Hi, I’m MUKONGE ERIC
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Open source projects
