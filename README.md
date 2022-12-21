@@ -1,10 +1,10 @@
-- 👋 Hi, I’m MUKONGE ERIC
+- 👋 Hi, I’m MUKONGE SENJAH
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Open source projects
-- 📫 How to reach me mukonge.eric@gmail.com
+- 📫 How to reach me mukongesenjah@gmail.com
 
 <!---
-MUKONGE ERIC/MUKONGE ERIC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MUKONGE SENJAH/MUKONGE SENJAH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
