@@ -1,7 +1,7 @@
-- 👋 Greetings, I’m ME {Mukonge Eric} from Africa,
-- 👀 A Full stack developer,Network adminstrator & Pan-Africanism,
-- 🌱 I’m in the land of the Gods where River Happy dowells ,
-- 💞️ I collaborate towards Open source projects,
+- 👋 Greetings, I’m ME {% Mukonge Eric %} from Africa,
+- 👀 A Full stack developer, Network adminstrator & Pan-Africanism,
+- 🌱 I’m in the land of the Gods where River Happy dowells,
+- 💞️ I contribute to Open source projects,
 - 📫 Reach me mukonge.eric@gmail.com.
 
 <!---
