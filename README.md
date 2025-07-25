@@ -1,5 +1,5 @@
 - 👋 Greetings, I’m Mukonge SenJAH from Africa,
-- 👀 Pan-Africanist, Network & System adminstrator,
+- 👀 Pan-Africanist, Network & Systems adminstrator,
 - 🌱 I’m proud to be on the land of the Gods where River Happy dowells,
 - 📫 Reach me mukonge.eric@gmail.com
 <!---
